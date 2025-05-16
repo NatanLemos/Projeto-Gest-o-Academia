@@ -21,7 +21,7 @@ class Funcionario
 	{
 		return $this->IdFuncionario;
 	}
-
+ //ofnwsolfnwçaoivgahoeçglnaeoghjneaorlgçhraeogçarejlgnherageoçiguhefikg
 	public function getNome()
 	{
 		return $this->Nome;
